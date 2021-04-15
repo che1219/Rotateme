@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void rightSideUp(){
-        iamge.setRotation(90);
+        iamge.setRotation(180);
     }
 
 
